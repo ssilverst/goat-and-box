@@ -1,5 +1,5 @@
 # goat-and-box
-This is a project I made to explore how to use 3d models in three js and interact with them. I learned three js from [this video](https://img.youtube.com/vi/VID/0.jpg)](https://www.youtube.com/watch?v=6oFvqLfRnsU&ab_channel=DesignCourse). 
+This is a project I made to explore how to use 3d models in three js and interact with them. I learned three js from [this video](https://www.youtube.com/watch?v=6oFvqLfRnsU&ab_channel=DesignCourse). 
 
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
