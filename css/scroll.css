@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+}
+canvas{ 
+    display:block; 
+}
+h1{
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-family: 'Arial', sans-serif;
+    font-size: 7em;
+    text-transform: uppercase;
+    line-height: .8em;
+    border: 5px solid black;
+    margin: 0;
+}
